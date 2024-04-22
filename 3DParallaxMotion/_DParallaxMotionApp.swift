@@ -1,9 +1,11 @@
+//  /*
 //
-//  _DParallaxMotionApp.swift
-//  3DParallaxMotion
+//  Project: 3DParallaxMotion
+//  File: _DParallaxMotionApp.swift
+//  Created by: Elaidzha Shchukin
+//  Date: 21.04.2024
 //
-//  Created by Elaidzha Shchukin on 21.04.2024.
-//
+//  */
 
 import SwiftUI
 

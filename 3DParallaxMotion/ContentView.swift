@@ -25,7 +25,7 @@ struct ContentView: View {
         }
         return (x: 0, y: 0)
     }
-
+    
     var circleYOffset: CGFloat {
         if let motion = motion, motion.attitude.pitch > thresholdPitch {
             return CGFloat((motion.attitude.pitch - thresholdPitch) * 600 / .pi)
